@@ -2,7 +2,7 @@
 создайте и активируйте виртуальное кружение 
 ```bash
 python -m venv venv
-.../venv/Scripts/actibate
+.../venv/Scripts/activate
 ```
 Установите фреймвокр из requirements.txt
 После выполните команду
